@@ -35,8 +35,7 @@ Simulação de ataque de força bruta contra o formulário de login da aplicaç�
 Pagina web:
   http://192.168.56.102/dvwa/login.php
 
-> ![Print do DVWA](images/DVWA.png)
-*(Aqui você coloca o print do Medusa encontrando a senha 'password' ou do painel do DVWA logado)*
+> !(prints2/DVWA.png)
 
 ### 3. Ataque de Força Bruta: FTP
 Simulação de tentativa de login no serviço de transferência de arquivos.
