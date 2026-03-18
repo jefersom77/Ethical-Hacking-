@@ -22,7 +22,7 @@ Identificação de serviços ativos no alvo para definir os vetores de ataque.
 - **Comando:** `nmap -sV 192.168.56.101`
 - **Resultado:** Portas 21 (FTP), 22 (ssh), 139/445 (SMB) e 80 (HTTP) identificadas como abertas.
 
-> ![Print do Nmap](images/NMAP.png)
+> ![Print do Nmap](Ethical-Hacking/NMAP.png)
 
 ### 2. Ataque Web (DVWA) - Brute Force HTTP
 Simulação de ataque de força bruta contra o formulário de login da aplicação web DVWA.
