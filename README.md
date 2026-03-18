@@ -58,6 +58,6 @@ Para prevenir os ataques demonstrados, as seguintes medidas são sugeridas:
 4. **2FA:** Implementar autenticação de dois fatores em serviços críticos.
 
 ## 📂 Estrutura de Arquivos
-- `/images`: Capturas de tela dos testes.
+- `/prints 2`: Capturas de tela dos testes.
 - `/wordlists`: Listas de usuários e senhas utilizadas.
 - `README.md`: Documentação principal.
